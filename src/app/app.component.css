@@ -1,0 +1,22 @@
+.square-big {
+    margin-left: 50%;
+    text-align: center;
+}
+.ball {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+.black {
+  background-color: black;
+}
+.white {
+  background-color: white;
+}
+.square {
+  background-color: green;
+  border: 1px solid black;
+  width: 50px;
+  height: 50px;
+  padding: 5px;
+}
